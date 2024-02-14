@@ -1,14 +1,14 @@
 ## Júlia Nogales López
 
-#### 🔭 Working
+### 🔭 Working
 Currently working as a Project Manager on [**PacoMonkey** · **SIGGames**](https://github.com/SIGGgames) and just started working on a [**Hotel Management**](https://github.com/Aniol0012/JointProject) Project.
 
-#### 🌱 Learning
+### 🌱 Learning
 I’m currently learning **Computer science, Software engineering and Project management**. 
 
 I'm also learning **django** in Python, **C#** and **Unity** for developing my current projects.
 
-#### 👨‍💻 Languages and Tools:
+### 👨‍💻 Languages and Tools:
 <!-- PROGRAMMING -->
 <!-- Java --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <!-- Python --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -28,5 +28,5 @@ I'm also learning **django** in Python, **C#** and **Unity** for developing my c
 <!-- Blender --> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 <!-- LibreSprite --> <a href="https://libresprite.github.io/" target="_blank" rel="noreferrer"> <img src="https://libresprite.github.io/assets/ase.ico" alt="libresprite" width="40" height="40"/> 
 
-#### 📫 Contact
+### 📫 Contact
 **julianolo71@gmail.com**
