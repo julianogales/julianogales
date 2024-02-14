@@ -29,4 +29,4 @@ I'm also learning **django** in Python, **C#** and **Unity** for developing my c
 <!-- LibreSprite --> <a href="https://libresprite.github.io/" target="_blank" rel="noreferrer"> <img src="https://libresprite.github.io/assets/ase.ico" alt="libresprite" width="40" height="40"/> 
 
 #### 📫 Contact
-email: **julianolo71@gmail.com**
+**julianolo71@gmail.com**
