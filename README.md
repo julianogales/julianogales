@@ -1,5 +1,3 @@
-## Júlia Nogales López
-
 ### 🔭 Working
 Currently working as a Project Manager on [**PacoMonkey** · **SIGGames**](https://github.com/SIGGgames) and just started working on a [**Hotel Management**](https://github.com/Aniol0012/JointProject) Project.
 
