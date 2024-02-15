@@ -4,7 +4,7 @@ Currently working as a Project Manager on [**PacoMonkey** · **SIGGames**](https
 ### 🌱 Learning
 I’m currently learning **Computer science, Software engineering and Project management**. 
 
-I'm also learning **django** in Python, **C#** and **Unity** for developing my current projects.
+I'm also learning **django** in Python, **C#** and **Unity** to develop my current projects.
 
 ### 👨‍💻 Languages and Tools:
 <!-- PROGRAMMING -->
