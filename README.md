@@ -27,4 +27,4 @@ I'm also learning **django** in Python, **C#** and **Unity** to develop my curre
 <!-- LibreSprite --> <a href="https://libresprite.github.io/" target="_blank" rel="noreferrer"> <img src="https://libresprite.github.io/assets/ase.ico" alt="libresprite" width="40" height="40"/> 
 
 ### 📫 Contact
-**julianolo71@gmail.com**
+[julianolo71@gmail.com](mailto:julianolo71@gmail.com)
