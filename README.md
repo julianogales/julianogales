@@ -1,3 +1,5 @@
+## Hi! I'm Júlia 👋
+
 ### 🔭 Working
 Currently working as a Project Manager on [**PacoMonkey** · **SIGGames**](https://github.com/SIGGgames) and just started working on a [**Hotel Management**](https://github.com/Aniol0012/JointProject) Project.
 
@@ -6,7 +8,10 @@ I’m currently learning **Computer science, Software engineering and Project ma
 
 I'm also learning **django** in Python, **C#** and **Unity** to develop my current projects.
 
-### 👨‍💻 Languages and Tools
+### 📫 Contact
+[julianolo71@gmail.com](mailto:julianolo71@gmail.com)
+
+## 👨‍💻 Languages and Tools
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,django,c,linux" /> 
 </p>
@@ -22,6 +27,4 @@ I'm also learning **django** in Python, **C#** and **Unity** to develop my curre
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,md,figma,blender" /> <img src="https://libresprite.github.io/assets/ase.ico" alt="libresprite" width="48" height="48"/> 
 </p>
-  
-### 📫 Contact
-[julianolo71@gmail.com](mailto:julianolo71@gmail.com)
+
