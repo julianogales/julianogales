@@ -14,17 +14,19 @@ I'm also learning **django** in Python, **C#** and **Unity** to develop my curre
 ## 👨‍💻 Languages and Tools
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,django,c,linux" /> 
-</p>
+</a>
+<p></p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity,sqlite,postgres,r" /> 
-</p>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Trello-512.png" alt="trello" width="48" height="48"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/monday_logo_icon_168967.png" alt="monday" width="48" height="48"/>
-    <img src="https://skillicons.dev/icons?i=discord" />
-</p>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,md,figma,blender" /> <img src="https://libresprite.github.io/assets/ase.ico" alt="libresprite" width="48" height="48"/> 
-</p>
-
+</a>
+<p></p>
+<a href="https://skillicons.dev" style="color: inherit; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=git,github" style="margin-right: 3px;" />
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Trello-512.png" alt="trello" width="48" height="48" style="margin-right: 3px;"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/monday_logo_icon_168967.png" alt="monday" width="48" height="48"style="margin-right: 3px;"/>
+    <img src="https://skillicons.dev/icons?i=discord" style="margin-right: 3px;"/>
+</a>
+<p></p>
+<a href="https://skillicons.dev" style="color: inherit; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=latex,md,figma,blender" /> <img src="https://libresprite.github.io/assets/ase.ico" alt="libresprite" width="48" height="48" style="margin-right: 3px"> 
+</a>
