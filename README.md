@@ -17,7 +17,7 @@ I’m currently learning **Computer science, Software engineering** and **Projec
 
 I'm also learning **django** in Python, **html** and **css** to develop my current projects.
 
-In the near future, I want to learn how to fully use **GitHub** and **Jira**.
+In the near future, I want to learn how to fully use **Jira**, **GitHub** and many more with [GitHub Education Pack](https://education.github.com/learner/learn).
 
 ### 👨‍💻 Languages and Tools
 <a href="https://skillicons.dev">
