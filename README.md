@@ -8,7 +8,6 @@ Open Projects:
 
 Future Projects (*need to be rebuild*):
 - [ ] [PacoMonkey · SIGGames](https://github.com/SIGGgames) as Project Manager and Game Creator.
-- [ ] Personal Web Page
 
 Closed Projects:
 - [X] [Client-server commmunication system](https://github.com/julianogales/xarxes) in python and c.
