@@ -11,7 +11,7 @@ Future Projects (*need to be rebuild*):
 
 Closed Projects:
 - [X] [Client-server commmunication system](https://github.com/julianogales/xarxes) in python and c.
-- [X] [Epub Template](https://github.com/julianogales/epub-template)
+- [X] [ePub Template](https://github.com/julianogales/epub-template)
 
 ### 🌱 Learning
 I’m currently learning **Computer science, Software engineering** and **Project management** (AGILE and SCRUM methodologies). 
