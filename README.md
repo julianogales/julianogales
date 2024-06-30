@@ -2,14 +2,12 @@
 
 ### 🖥️ Working
 Open Projects:
-- [ ] [**Hotel Management · Computer Engineering UdL**](https://github.com/Aniol0012/JointProject) as Frontend developer.
-- [ ] [**Game Management · Computer Engineering UdL**](https://github.com/Computer-Engineering-UdL/Game-Management) as Web Designer.
+- [ ] [**PacoMonkey · SIGGames**](https://github.com/SIGGgames) as Project Manager and Game Designer. <- *(needs to be rebuild and start from scratch)*
 - [ ] [**Cine en Casa**](https://github.com/Computer-Engineering-UdL/Cine-en-Casa) as Full Stack developer and Web Designer.
 
-Future Projects (*need to be rebuild*):
-- [ ] [PacoMonkey · SIGGames](https://github.com/SIGGgames) as Project Manager and Game Creator.
-
 Closed Projects:
+- [X] [Hotel Management · Computer Engineering UdL](https://github.com/Aniol0012/JointProject) as Frontend developer.
+- [X] [Game Management · Computer Engineering UdL](https://github.com/Computer-Engineering-UdL/Game-Management) as Web Designer.
 - [X] [Client-server commmunication system](https://github.com/julianogales/xarxes) in python and c.
 - [X] [ePub Template](https://github.com/julianogales/epub-template)
 
